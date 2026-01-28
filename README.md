@@ -21,3 +21,10 @@ Day 3
 - Installed and used Nmap
 - Scanned localhost to understand attack surface
 - localhost = 127.0.0.1 (my own system)
+
+Day 4 – Networking Fundamentals
+- IP = device address
+- Port = service entry point
+- TCP = reliable, connection-based
+- UDP = fast, connectionless
+- Port scanning is reconnaissance phase
